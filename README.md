@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lisamurphy-msft
-- 👀 I’m interested in all things
+- 👀 I’m interested in all things, particularly things that give me the opportunity to adopt a Growth Mindset
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me...
